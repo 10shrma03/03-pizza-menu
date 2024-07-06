@@ -15,7 +15,7 @@ Fast React Pizza Co. is a single-page application (SPA) built using HTML, CSS, J
 
 ## Introduction
 
-Fast React Pizza Co. is a modern web application designed to enhance the online pizza ordering experience. The app allows users to browse through a variety of pizzas, customize their orders, and seamlessly add items to their cart.
+Fast React Pizza Co. is a modern web application designed to enhance the online pizza ordering experience.
 
 ## Features
 
@@ -87,6 +87,3 @@ Lists are dynamically rendered using the `map` function. Props are destructured 
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
